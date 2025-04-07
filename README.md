@@ -1,2 +1,1 @@
-# Smart-Flood-Ai
-Deep learning with  Long shot term memory
+#นวัตกรรม คาดคะเนเเละพยากรณ์ระดับน้ำล่วงหน้าด้วยการเรียนรู้ของเครื่อง Deep learning
